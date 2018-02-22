@@ -5,6 +5,7 @@ class Sample{
 	  String abc="fuhruht";
 	  String p = "fghsdgf";
 	  String c = "Shrutika yadav"
+	int a = 5;
     return "This is a sample class";
     
   }
